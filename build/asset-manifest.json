@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.350e85f7.css",
+    "main.js": "/static/js/main.2a5d603d.js",
+    "static/media/WAS_Logo.png": "/static/media/WAS_Logo.5dba9bb0dba03919b34e.png",
+    "index.html": "/index.html",
+    "main.350e85f7.css.map": "/static/css/main.350e85f7.css.map",
+    "main.2a5d603d.js.map": "/static/js/main.2a5d603d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350e85f7.css",
+    "static/js/main.2a5d603d.js"
+  ]
+}
