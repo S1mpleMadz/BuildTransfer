@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7929cce1.css",
-    "main.js": "/static/js/main.fa74ec00.js",
+    "main.js": "/static/js/main.28df50d6.js",
     "static/media/WAS_Logo.png": "/static/media/WAS_Logo.5dba9bb0dba03919b34e.png",
     "index.html": "/index.html",
     "main.7929cce1.css.map": "/static/css/main.7929cce1.css.map",
-    "main.fa74ec00.js.map": "/static/js/main.fa74ec00.js.map"
+    "main.28df50d6.js.map": "/static/js/main.28df50d6.js.map"
   },
   "entrypoints": [
     "static/css/main.7929cce1.css",
-    "static/js/main.fa74ec00.js"
+    "static/js/main.28df50d6.js"
   ]
 }
